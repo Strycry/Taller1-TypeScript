@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=B612');
+
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: #efeff0;
+    margin-top: 1%;
+}
+
+body {
+    font-family: "B612";
+    font-size: 19px;
+  }
+#header{
+    background-color: #123;
+    display: flex;
+}
+#table {
+    margin-top: 1%;
+}
